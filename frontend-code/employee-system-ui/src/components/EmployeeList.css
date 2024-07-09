@@ -1,0 +1,62 @@
+.container{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.index-page{
+    height: 38px;
+}
+
+.add-btn{
+    height: 50px;
+    width: 160px;
+    background-color: rgb(129, 124, 124);
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.container-below table{
+    display: block;
+    border-collapse: collapse;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+
+}
+
+.container-below thead{
+    background-color: rgb(224, 223, 223);
+}
+
+.container-below th{
+    padding: 45px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    text-align: left;
+}
+
+.container-below tbody{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.container-below td{
+    padding: 45px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    text-align: left;
+}
+
+.data-entry{
+    text-align: left;
+    font-size: 15px;
+    color: rgb(172, 165, 165);
+}
+
+.data-action  :hover{
+    color: rgb(15, 15, 117);
+}

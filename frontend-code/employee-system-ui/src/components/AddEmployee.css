@@ -1,0 +1,70 @@
+.employee{
+    height: 700px;
+    width: 500px;
+    display: flex;
+    border:1px solid rgb(104, 100, 100);
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    place-content: center;
+    margin-left: 450px;
+}
+
+.add-employee{
+    padding-left: 16px;
+    padding-right: 8px;
+}
+
+.header-add{
+    font-size: 16px;
+    color: gray;
+    font-weight: lighter;
+    letter-spacing: 1px;
+
+}
+
+.from-details{
+    align-items: center;
+    justify-content: center;
+   height: 120px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 500px;
+}
+
+.from-details label{
+    display: block;
+    color: rgb(95, 93, 93);
+    font-size: 16px;
+    line-height: 1.25rem;
+    font-weight: 500;
+    
+}
+
+.from-details input{
+    height: 50px;
+    width: 450px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 10px;
+
+}
+
+.from-details button{
+    margin-top: 40px;
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 40px;
+    margin-left: 60px;
+    font-size: 32px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 233, 69);
+    cursor: pointer;
+}
+

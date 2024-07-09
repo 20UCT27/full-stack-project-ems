@@ -1,0 +1,16 @@
+.navbar{
+    background-color: gray;
+}
+
+.header{
+    height: 50px ;
+    align-items: center;
+    display: flex;
+    padding-left: 20px;
+  }
+  
+  .header p{
+    color: white;
+    font-weight: bold;
+  
+  }
